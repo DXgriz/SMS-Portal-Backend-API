@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "apS11r6fMLR9ZIBfad3DOcCDTpIg3qEa0s4eYalxkkw=",
+  "Source": "SMSPortalAPI",
+  "BasePath": "_content/SMSPortalAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
